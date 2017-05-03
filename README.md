@@ -8,3 +8,6 @@ The GitHub Guides are very nice resources. It is up to you to evaluate your know
 
 ## First Task
 Add your name in the new students.txt file. Do this the proper way - create an issue, a matching branch, etc.  
+
+## Second Task
+Using HTML and CSS, re-create the screenshot of the webpage in this repository. Use header tags, a table, an img tag, paragraph and div tags
