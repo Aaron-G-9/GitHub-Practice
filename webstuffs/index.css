@@ -1,0 +1,26 @@
+.divClass{
+  color: blue
+}
+
+.tableElement{
+  padding: 24px;
+  font-size: 24px;
+}
+
+.blobl{
+  display: flex;
+  flex-direction: row;
+}
+
+#blue-paragraph{
+  color: blue;
+}
+
+#bodyID{
+  display: flex;
+  flex-direction: row;
+}
+
+#goodness-table{
+  margin: auto;
+}
