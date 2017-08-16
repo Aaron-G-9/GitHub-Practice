@@ -11,3 +11,5 @@ Add your name in the new students.txt file. Do this the proper way - create an i
 
 ## Second Task
 Using HTML and CSS, re-create the screenshot of the webpage in this repository. Use header tags, a table, an img tag, paragraph and div tags
+
+Daryoush Nasiri
