@@ -26,4 +26,15 @@ Using HTML and CSS, recreate (to the best of your abilities) the screenshot of t
 
 ### React Task
 On the MySail team, we've used the javascript framework React from its earliest days. Before React, MySail had page reloads for (what seemed like) every button click. Now we're able to change the User's view seamlessly! This is accomplished in huge part to React's concept of State and the Virtual Dom. Any student working on the MySail team should have a basic understanding of React - as we're moving to use it in all but the simplest of portlets.  
-Here is a tutorial to follow. Submit the final product on GitLab for a code review 
+[Here](https://reactjs.org/tutorial/tutorial.html) is a tutorial to follow. Submit the final product on GitLab for a code review 
+
+### Webapp Task
+Create a simple webapp. It should have a backend API which the frontend hits. A suggestion is a simple movie information website. It would have a number of movies that you could choose from, and it would display detailed information about the chosen one. The API could look something like `api/movies/iron_man`  
+Whatever you choose, make the project with [Spring Boot](https://start.spring.io/)  
+Some things to keep in mind:
+  - Choose a gradle project
+  - Choose some version of Spring 2
+  - Choose `web` and `rest repositories` as your dependencies (you'll be making a [RESTFUL API](https://en.m.wikipedia.org/wiki/Representational_state_transfer))
+  - [Here](https://spring.io/guides/gs/rest-service/) is a tutorial to help
+
+### Simple Issues on GitLab
