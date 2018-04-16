@@ -21,3 +21,9 @@ Add your name in the new students.txt file. Do this the proper way - create an i
 
 ## Second Task
 Using HTML and CSS, recreate (to the best of your abilities) the screenshot of the webpage in this repository (using an image of your choice). Use header tags, a table, an img tag, paragraph and div tags
+
+## Remaining Tasks are in order of your choice
+
+### React Task
+On the MySail team, we've used the javascript framework React from its earliest days. Before React, MySail had page reloads for (what seemed like) every button click. Now we're able to change the User's view seamlessly! This is accomplished in huge part to React's concept of State and the Virtual Dom. Any student working on the MySail team should have a basic understanding of React - as we're moving to use it in all but the simplest of portlets.  
+Here is a tutorial to follow. Submit the final product on GitLab for a code review 
