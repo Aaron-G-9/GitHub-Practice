@@ -1,0 +1,8 @@
+#movieTable {
+	width : 800px;
+	border: 1px solid black;
+}
+#movieTable td, #movieTable th {
+	border: 1px solid black;
+	padding: 8px;
+}
